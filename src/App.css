@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+/* src/index.css หรือ src/App.css */
+@media print {
+  /* ซ่อน element ที่มี class 'no-print' เมื่อมีการสั่งพิมพ์ */
+  .no-print {
+    display: none !important;
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "etax_submissions": [
+    {
+      "id": "mock_sub_001",
+      "invoiceId": "INV001",
+      "submittedDate": "2024-06-13T10:00:00Z",
+      "status": "success",
+      "mockEtaxRefId": "ETX-MOCK-ABC123DEF",
+      "message": "Invoice INV001 data successfully received by mock E-tax system."
+    }
+  ]
+}
